@@ -1,2 +1,2 @@
 # Vanilla-Neural-Net
-building a neural net from ground up with only basic libraries 
+Building a neural net from ground up with only basic libraries 
